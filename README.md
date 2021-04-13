@@ -26,6 +26,6 @@ or like this
 
 then restart bluetooth daemon
 
-`sudo systemctl daemon-reload`
+`sudo systemctl daemon-reload`  
 `sudo systemctl restart bluetooth`
 
